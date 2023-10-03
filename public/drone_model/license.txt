@@ -1,0 +1,11 @@
+Model Information:
+* title:	Doosan Hydrogen Powered VTOL Drone
+* source:	https://sketchfab.com/3d-models/doosan-hydrogen-powered-vtol-drone-747fb98f64794cdd96486debaf20a02c
+* author:	AnthroBird (https://sketchfab.com/AnthroBird)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Doosan Hydrogen Powered VTOL Drone" (https://sketchfab.com/3d-models/doosan-hydrogen-powered-vtol-drone-747fb98f64794cdd96486debaf20a02c) by AnthroBird (https://sketchfab.com/AnthroBird) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
